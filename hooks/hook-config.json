@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "exportPath": "~/Documents/agent对话导出/{date8}_{conversationId}_{title}",
+  "format": "markdown",
+  "includeToolResults": false,
+  "onError": "log",
+  "logPath": "~/.agent/logs/conversation-export-hook.log"
+}
